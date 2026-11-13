@@ -1,0 +1,1 @@
+{"PS_SHARED_SECRET":{"defaultValue":"${{secret(16)}}","description":"Admin passphrase for logging in to PicoShare. Keep it safe — it is the only admin credential.","isOptional":false}}
